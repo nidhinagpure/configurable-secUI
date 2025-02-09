@@ -2,6 +2,7 @@
 
 import { createRoot } from "react-dom/client";
 import "./index.css";
+import CakeImage from "./image/cake.jpg"
 
 const root = createRoot(document.getElementById("root"));
 
@@ -37,7 +38,7 @@ function ConFigs() {
             </div>
             <div className="flex justify-evenly mr-2" >
                 <div>
-                    <img src={CONTAIN_IMAGE}
+                    <img src={CakeImage}
                         className="mt-6 pr-1  flex justify-center w-[700px] h-[400px]" />
                 </div>
                 

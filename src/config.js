@@ -12,12 +12,10 @@ const WEB_DESCRIPTIONS = ` also known as a confectionery or candy store, is a re
                             sweet shops became an integral part of local culture, offering handcrafted treats made from 
                             recipes passed down through generations.`;
 
-
 const WEB_BUTTON1 = "Seee More";
 const WEB_BUTTON2 = "Buy Now";
 
 
-const CONTAIN_IMAGE = "https://t3.ftcdn.net/jpg/04/84/94/58/360_F_484945880_yqcmUlx4PR22FnuLWEknDRji2RLiM8Nh.jpg"
-
+const CONTAIN_IMAGE = " ";
 export {WEBSITE_NAME ,WEBSITE_TITLE ,HEADER_IMAGES ,WEB_DESCRIPTIONS , WEB_BUTTON1,WEB_BUTTON2 ,CONTAIN_IMAGE };
 
