@@ -7,10 +7,10 @@ const WEB_DESCRIPTIONS = ` also known as a confectionery or candy store, is a re
                           vary in size and style, ranging from small family-run businesses to large chain stores.
                           Sweet shops have been around for centuries, with different cultures developing their 
                           own unique confections. In medieval Europe, sweets were a luxury reserved for the wealthy,
-                           as sugar was expensive. Over time, as sugar became more affordable, candy-making evolved,
-                            leading to the establishment of dedicated confectionery shops. In many countries, traditional 
-                            sweet shops became an integral part of local culture, offering handcrafted treats made from 
-                            recipes passed down through generations.`;
+                          as sugar was expensive. Over time, as sugar became more affordable, candy-making evolved,
+                          leading to the establishment of dedicated confectionery shops. In many countries, traditional 
+                          sweet shops became an integral part of local culture, offering handcrafted treats made from 
+                         recipes passed down through generations.`;
 
 const WEB_BUTTON1 = "Seee More";
 const WEB_BUTTON2 = "Buy Now";

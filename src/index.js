@@ -2,7 +2,7 @@
 
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import CakeImage from "./image/cake.jpg"
+import CakeImage from "./image/sweet.jpg"
 
 const root = createRoot(document.getElementById("root"));
 
